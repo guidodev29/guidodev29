@@ -2,9 +2,9 @@
 
 Soy desarrollador frontend con experiencia en **React**, **Next.js**, **JavaScript** y otras tecnologías. Me apasiona crear interfaces de usuario eficientes y funcionales, y colaborar en proyectos donde pueda aportar mis conocimientos y dar un toque de mi personalidad.
 
-🔭 Actualmente trabajando en [nombre de tu proyecto]
+🔭 Actualmente trabajando en Proyectos personales para Autoaprendizaje
 🌱 Aprendiendo sobre **Desarrollo FrontEnd** y en un futuro convertirme en **FullStack**
-📫 Puedes contactarme en [tu correo] o en [LinkedIn](https://www.linkedin.com/...)
+📫 Puedes contactarme en tonyhdezguido@gmail.com o en [LinkedIn](https://www.linkedin.com/in/anthony-hernández-93292a266/)
 
 ### Proyectos Destacados:
 - **[Mi App de Clima](https://github.com/guidodev29/WhatsMyWeather)**: Aplicación que muestra el clima de diferentes ciudades usando la API de WeatherApi.
