@@ -3,7 +3,7 @@
 Soy desarrollador frontend con experiencia en **React**, **Next.js**, **JavaScript** y otras tecnologías. Me apasiona crear interfaces de usuario eficientes y funcionales, y colaborar en proyectos donde pueda aportar mis conocimientos y dar un toque de mi personalidad.
 
 🔭 Actualmente trabajando en [nombre de tu proyecto]
-🌱 Aprendiendo sobre **Desarrollo Full Stack**
+🌱 Aprendiendo sobre **Desarrollo FrontEnd** y en un futuro convertirme en **FullStack**
 📫 Puedes contactarme en [tu correo] o en [LinkedIn](https://www.linkedin.com/...)
 
 ### Proyectos Destacados:
