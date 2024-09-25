@@ -15,5 +15,3 @@ Soy desarrollador frontend con experiencia en **React**, **Next.js**, **JavaScri
 - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Build Status](https://travis-ci.org/yourname/yourrepo.svg?branch=master)
-![Coverage Status](https://coveralls.io/repos/github/yourname/yourrepo/badge.svg?branch=master)
